@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/Users/sebastian/aviacion-microservicios/reservas_service/.venv/bin/python",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true
+}
