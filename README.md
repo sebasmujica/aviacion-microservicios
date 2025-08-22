@@ -8,8 +8,8 @@ Proyecto en Flask para practicar microservicios con un tema de aviación.
 - **Reservas** → gestiona reservas (puerto 5003)
 
 ## ▶️ Cómo ejecutar
-Ejemplo para **Aeronaves**:
-```bash
+Ejemplo para **aeronave_service**:
+```
 cd aeronaves_service
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
