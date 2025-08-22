@@ -1,0 +1,8 @@
+{
+    // Usa siempre el intérprete del venv de Aeronaves
+    "python.defaultInterpreterPath": "/Users/sebastian/aviacion-microservicios/aeronaves_service/.venv/bin/python",
+
+    // Limpieza automática del código al guardar
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true
+}
