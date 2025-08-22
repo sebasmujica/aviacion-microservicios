@@ -1,0 +1,14 @@
+# entornos virtuales
+.venv/
+*/.venv/
+
+# archivos de entorno
+.env
+*/.env
+
+# bases de datos sqlite
+*.db
+
+# cachés de python
+__pycache__/
+*.pyc
